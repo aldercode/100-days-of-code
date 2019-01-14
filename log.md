@@ -1,14 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 14, 2019
+### Day 1: 14 January 2019
+Did some FCC Introduction to JavaScript items and worked some more on fixing the styling of my Personal Portfolio Webpage from the Responsive Web Design Challenges - passed tech tests previously, but styling is still in progress. 
 
-Orig text to remove after updating own:
+### Day 2: 15 January
 
----
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
----
 
