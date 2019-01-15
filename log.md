@@ -4,7 +4,7 @@
 Did some FCC Introduction to JavaScript items and worked some more on fixing the styling of my Personal Portfolio Webpage from the Responsive Web Design Challenges - passed tech tests previously, but styling is still in progress. 
 
 ### Day 2: 15 January
-Did another 15 FCC Introduction to JavaScript challenges. Would've been more but I spent a LOOOOOOOONG time trying to complete (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/word-blanks/). Not gonna lie: YouTube helped, but I get it now. Hindsight... right?
+Did another 15 FCC Introduction to JavaScript challenges. Would've been more but I spent a LOOOOOOOONG time trying to complete https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/word-blanks/. Not gonna lie: YouTube helped, but I get it now. Hindsight... right?
 
 ### Day 3: 16 January
 
