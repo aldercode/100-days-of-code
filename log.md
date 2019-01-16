@@ -7,4 +7,15 @@ Did some FCC Introduction to JavaScript items and worked some more on fixing the
 Did another 15 FCC Introduction to JavaScript challenges. Would've been more but I spent a LOOOOOOOONG time trying to complete https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/word-blanks/. Not gonna lie: YouTube helped, but I get it now. Hindsight... right?
 
 ### Day 3: 16 January
+Started reading up on SQL and doing basic SQL exercises. Also coded the outline of my new site. Finally, a few more FCC Introduction to JavaScript challenges.
 
+### Day 4: 17 January
+
+
+### Day 5: 18 January
+
+
+### Day 6: 19 January
+
+
+### Day 7: 20 January
