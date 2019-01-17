@@ -10,7 +10,7 @@ Did another 15 FCC Introduction to JavaScript challenges. Would've been more but
 Started reading up on SQL and doing basic SQL exercises. Also coded the outline of my new site. Finally, a few more FCC Introduction to JavaScript challenges.
 
 ### Day 4: 17 January
-
+A spot of light reading on Python. Annnnnnd, just for a change, some more FCC Introduction to JavaScript challenges (my brain hurts!).
 
 ### Day 5: 18 January
 
