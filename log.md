@@ -13,7 +13,7 @@ Started reading up on SQL and doing basic SQL exercises. Also coded the outline 
 A spot of light reading on Python. Annnnnnd, just for a change, some more FCC Introduction to JavaScript challenges (my brain hurts!).
 
 ### Day 5: 18 January
-
+Went back to the beginning of the FCC JavaScript challenges and started them again. Repetition and reinforcement is the goal. Also watching (and attempting) JS tutorials on YouTube. Finally, reading @YDKJS (https://twitter.com/YDKJS) Up & Going
 
 ### Day 6: 19 January
 
