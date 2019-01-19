@@ -24,6 +24,8 @@ TEST: Changing online version.
 RESULT: Fetched via Desktop Client and amended here.
 Success.
 
+May have posted a bit early... Been a busy day! In addition to the above I installed and got the hang of GitHub Desktop, read up on Docker, general Linux stuff, the command line, and even tried out @codewars and @hackerrank (these are great!).
+
 ### Day 7: 20 January
 
 
