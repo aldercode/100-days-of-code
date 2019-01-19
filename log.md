@@ -19,6 +19,8 @@ Went back to the beginning of the FCC JavaScript challenges and started them aga
 Watched the first lecture of #CS50: Introduction to Computer Science and played in GitHub. Tinkered with VS Code too trying out different HTML and CSS options.
 
 TEST: Updated locally via Github Desktop to check out how it works.
+RESULT: Pushed up, and it synced perfectly. 
+TEST: Changing online version.
 
 ### Day 7: 20 January
 
