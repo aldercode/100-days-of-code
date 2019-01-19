@@ -21,6 +21,8 @@ Watched the first lecture of #CS50: Introduction to Computer Science and played 
 TEST: Updated locally via Github Desktop to check out how it works.
 RESULT: Pushed up, and it synced perfectly. 
 TEST: Changing online version.
+RESULT: Fetched via Desktop Client and amended here.
+Success.
 
 ### Day 7: 20 January
 
