@@ -16,6 +16,12 @@ A spot of light reading on Python. Annnnnnd, just for a change, some more FCC In
 Went back to the beginning of the FCC JavaScript challenges and started them again. Repetition and reinforcement is the goal. Also watching (and attempting) JS tutorials on YouTube. Finally, reading @YDKJS (https://twitter.com/YDKJS) Up & Going
 
 ### Day 6: 19 January
-
+Watched the first lecture of #CS50: Introduction to Computer Science and played in GitHub. Tinkered with VS Code too trying out different HTML and CSS options.
 
 ### Day 7: 20 January
+
+
+### Day 8: 21 January
+
+
+### Day 9: 22 January
