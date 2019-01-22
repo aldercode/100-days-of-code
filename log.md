@@ -18,10 +18,11 @@ Went back to the beginning of the FCC JavaScript challenges and started them aga
 ### Day 6: 19 January
 Watched the first lecture of #CS50: Introduction to Computer Science and played in GitHub. Tinkered with VS Code too trying out different HTML and CSS options.
 
+(Playing around with Github Desktop:)
 TEST: Updated locally via Github Desktop to check out how it works.
 RESULT: Pushed up, and it synced perfectly. 
 TEST: Changing online version.
-RESULT: Fetched via Desktop Client and amended here.
+RESULT: Fetched via Desktop Client and All is well.
 Success.
 
 May have posted a bit early... Been a busy day! In addition to the above I installed and got the hang of GitHub Desktop, read up on Docker, general Linux stuff, the command line, and even tried out @codewars and @hackerrank (these are great!).
@@ -30,6 +31,21 @@ May have posted a bit early... Been a busy day! In addition to the above I insta
 Lots of @SoloLearn.  Lots and lots! HTML, CSS and SQL.
 
 ### Day 8: 21 January
-
+Still busy redoing the @freeCodeCamp Intro to JavaScript challenges to ensure I completely understand them. Also completed the HTML Fundamentals course on @SoloLearn (which threw some JS in there too to keep me on my toes.)
 
 ### Day 9: 22 January
+
+
+### Day 10: 23 January
+
+
+### Day 11: 24 January
+
+
+### Day 12: 25 January
+
+
+### Day 13: 26 January
+
+
+
