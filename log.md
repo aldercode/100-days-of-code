@@ -34,10 +34,10 @@ Lots of @SoloLearn.  Lots and lots! HTML, CSS and SQL.
 Still busy redoing the @freeCodeCamp Intro to JavaScript challenges to ensure I completely understand them. Also completed the HTML Fundamentals course on @SoloLearn (which threw some JS in there too to keep me on my toes.)
 
 ### Day 9: 22 January
-
+Worked on some more FCC Intro to JavaScript challenges. Finished the first half that I recently decided to redo from scratch and got to tackle a few brand new ones too.
 
 ### Day 10: 23 January
-
+Used some of my new-found coding knowledge to make some big layout changes to our (non-tech) company's websites. Nice to be able to do these things myself now instead of asking others. I only have access to change the HTML, but hey, it's a start.
 
 ### Day 11: 24 January
 
