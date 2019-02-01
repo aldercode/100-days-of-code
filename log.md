@@ -40,12 +40,33 @@ Worked on some more FCC Intro to JavaScript challenges. Finished the first half 
 Used some of my new-found coding knowledge to make some big layout changes to our (non-tech) company's websites. Nice to be able to do these things myself now instead of asking others. I only have access to change the HTML, but hey, it's a start.
 
 ### Day 11: 24 January
-
+Watched part of @cs50 Week 1 lecture on @edXOnline, where C programming is introduced.
 
 ### Day 12: 25 January
-
+Continued with #CS50 Week 1 lecture, and tried my hand at CS50 Sandbox, including the first task.
 
 ### Day 13: 26 January
+Finished the #CS50 Week 1 lecture. Busy Saturday, so not much time for any more than that today.
+
+### Day 14: 27 January
+Got cracking with the JavaScript Tutorial on @SoloLearn.
+
+### Day 15: 28 January
+Completed a fair bit more of the JavaScript Tutorial on SoloLearn.
+
+### Day 16: 29 January
+Started learning about JavaScript objects.
+
+### Day --: 30 January
+SKIPPED
+
+### Day 17: 31 January
+Completed approx half of the SoloLearn CSS course.
+
+### Day 18: 1 February
 
 
+### Day 19: 2 February
 
+
+### Day 20: 3 February
