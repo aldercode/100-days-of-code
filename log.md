@@ -77,6 +77,8 @@ Picked up where I'd left off on Sololearn's JavaScript tutorial - Objects, Metho
 Continued working on Sololearn's JavaScript tutorial - more Objects plus some DOM lessons.
 
 ### Day 22: 5 February
-
+Completed my first #javascript course - Sololearn's JavaScript Tutorial. Yay me!
+The ES6 parts broke my brain a bit, but hey, a month ago I was lost with ALL things JavaScript, so no biggie!
+Right, I'm off to continue freeCodeCamp's JavaScript challenges.
 
 ### Day 23: 6 February
