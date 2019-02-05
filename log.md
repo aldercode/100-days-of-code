@@ -64,9 +64,19 @@ SKIPPED
 Completed approx half of the SoloLearn CSS course.
 
 ### Day 18: 1 February
-
+Did lots more of the SoloLearn CSS course. Approx 75% of the way through. It's great for refreshing the knowledge gained in the CSS section of freeCodeCamp's RWB certification. It also adds a few new items too, which is always welcome.
 
 ### Day 19: 2 February
-
+Finished the @Sololearn CSS Fundamentals course. Side quest complete. 
+Back to learning JavaScript then!
 
 ### Day 20: 3 February
+Picked up where I'd left off on Sololearn's JavaScript tutorial - Objects, Methods, Arrays.
+
+### Day 21: 4 February
+Continued working on Sololearn's JavaScript tutorial - more Objects plus some DOM lessons.
+
+### Day 22: 5 February
+
+
+### Day 23: 6 February
