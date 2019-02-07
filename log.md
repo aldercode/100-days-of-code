@@ -82,3 +82,21 @@ The ES6 parts broke my brain a bit, but hey, a month ago I was lost with ALL thi
 Right, I'm off to continue freeCodeCamp's JavaScript challenges.
 
 ### Day 23: 6 February
+Spent a LONG (read: LOOOOONNNNGGGG) time queuing to renew my driver's licence card today, so spent that time reading @YDKJS Up & Going as my day's code learning.
+
+### Day 24: 7 February
+Lots of playing around in VS Code trying different things with HTML and CSS. Some flexbox, media queries, background opacities (temperamental much?) and better use/demarcation of clear sections, etc.
+
+### Day 25: 8 February
+
+
+### Day 26: 9 February
+
+
+### Day 27: 10 February
+
+
+### Day 28: 11 February
+
+
+### Day 29: 12 February
