@@ -88,15 +88,44 @@ Spent a LONG (read: LOOOOONNNNGGGG) time queuing to renew my driver's licence ca
 Lots of playing around in VS Code trying different things with HTML and CSS. Some flexbox, media queries, background opacities (temperamental much?) and better use/demarcation of clear sections, etc.
 
 ### Day 25: 8 February
-
+Tweaked and added to my personal landing page. Added tech logos, hover tooltips over the logos and a JavaScript 'Go to Top' button.
 
 ### Day 26: 9 February
-
+Even more tweaking and adding to my personal landing page. Got the hang of keyframes (to fade in and out) and media queries.
 
 ### Day 27: 10 February
+JavaScript challenges on #freeCodeCamp - comparison and logical operators and if else statements, amongst others.
 
+Also read up on React. I'm not there yet, but you lot chat about it quite a bit so I got curious. Now I know, and am looking forward to it!
 
 ### Day 28: 11 February
-
+More JavaScript challenges on freeCodeCamp: Switch statements.
 
 ### Day 29: 12 February
+More JS basics on FCC:
+Multiple Identical Options in Switch Statements
+Repl. If Else Chains w Switch
+Returning Boolean Values from Functions
+Return Early Pattern for Functions
+Counting Cards
+JS Objects
+Accessing Obj Props w Dot Notation & Bracket Notation
+
+### Day --: 13 February
+SKIPPED
+
+### Day 30: 14 February
+Played around with CSS linear gradients and drop shadows.
+
+### Day 31: 15 February
+Lots of reading up on code-related topics: frameworks and libraries, UX Design, etc. So... research.
+Also, more trying out different things with CSS.
+
+...
+
+### Day --: 20 February
+So it would appear that I broke the rules on this first round of #100DaysOfCode with far too many days missed this past week. 
+Fine, I'll go sit in the corner and think about what I did (or rather, did NOT do), and restart the challenge very soon.
+
+### END of Round 1.
+
